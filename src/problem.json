@@ -1,0 +1,62 @@
+[
+
+    {
+    "ProblemName":"Watermelon",
+    "ID":"71A",
+    "level":"800"
+    },
+
+    {
+        "ProblemName":"Way Too Long Words",
+        "ID":"231A",
+        "level":"800"
+    },
+
+    {
+        "ProblemName":"Team",
+        "ID":"158A",
+        "level":"800"
+    },
+
+    {
+        "ProblemName":"Next Round",
+        "ID":"50A",
+        "level":"800"
+    },
+
+    {
+        "ProblemName":"Bit++",
+        "ID":"263A",
+        "level":"800"
+    },
+
+    {
+        "ProblemName":"Domino piling",
+        "ID":"112A",
+        "level":"800"
+    },
+    
+    {
+        "ProblemName": "Beautiful Matrix",
+        "ID": "339A",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Petya and Strings",
+        "ID": "281A",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Helpful Maths",
+        "ID": "136A",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Word Capitalization",
+        "ID": "266A",
+        "level": "800"
+    }
+]

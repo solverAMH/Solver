@@ -14,8 +14,10 @@ code {
 #Problame
 {
   margin-top: 2% ;
-  margin-left: 2% ;
+  margin-left: 10% ;
+  margin-right: 25%;
   border-color: transparent;
+  
 }
 #d
 {
@@ -26,4 +28,13 @@ code {
 .d:hover
 {
   background-color: blue;
+}
+#table
+{
+
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 20px;
+  flex-wrap: wrap;
 }

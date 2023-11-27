@@ -1,38 +1,35 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
+import Table from 'react-bootstrap/Table';
+import data from './problem.json';
 
-
-const MyTable = () => {
-
-  const data = [
-    { id: 1, name: 'John Doe', age: 25 },
-    { id: 2, name: 'Jane Smith', age: 30 },
-    { id: 3, name: 'Bob Johnson', age: 22 },
-  ];
-
+function MyTable() {
   return (
-    <div>
-      <h2>User Table</h2>
-      <table>
-        <thead>
-          <tr>
-            <th>ID</th>
-            <th>Name</th>
-            <th>Age</th>
-          </tr>
-        </thead>
-        <tbody>
-          {data.map((user) => (
-            <tr key={user.id}>
-              <td>{user.id}</td>
-              <Card.Link href="#">Card Link</Card.Link>
-              <td>{user.age}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+    <div id='Problame'>
+      <Card>
+        <Card.Body>
+          <Table striped bordered hover responsive="sm">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Level</th>
+              </tr>
+            </thead>
+            <tbody>
+              {data.map((item, index) => (
+                <tr key={index}>
+                  <td><Card.Link href="#">{item.ID}</Card.Link></td>
+                  <td className="text-center"><Card.Link href="#">{item.ProblemName}</Card.Link></td>
+                  <td>{item.level}</td>
+                </tr>
+              ))}
+            </tbody>
+          </Table>
+        </Card.Body>
+      </Card>
     </div>
   );
-};
+}
 
 export default MyTable;
