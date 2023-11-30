@@ -2,7 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Table from 'react-bootstrap/Table';
 import data from './problem.json'
-import waterMelon from './waterMelon';
+import waterMelon from './Problem Text/waterMelon';
 
 function MyTable() {
   return (

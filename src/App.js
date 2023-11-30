@@ -3,7 +3,7 @@ import Nav from './navBar';
 import ProblameCard from './card1';
 import { BrowserRouter as Router,Routes,Route} from 'react-router-dom';
 import MyTable from './table';
-import waterMelon from './waterMelon';
+import waterMelon from './Problem Text/waterMelon';
 
 function App() {
   return (
