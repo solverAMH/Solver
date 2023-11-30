@@ -2,62 +2,339 @@
 
     {
     "ProblemName":"Watermelon",
-    "ID":"71A",
+    "ID":"001TE",
     "level":"800",
     "herf":"/waterMelon"
+
     },
 
     {
         "ProblemName":"Way Too Long Words",
-        "ID":"231A",
+        "ID":"002TE",
         "level":"800"
     },
 
     {
         "ProblemName":"Team",
-        "ID":"158A",
+        "ID":"003TE",
         "level":"800"
     },
 
     {
         "ProblemName":"Next Round",
-        "ID":"50A",
+        "ID":"004TE",
         "level":"800"
     },
 
     {
         "ProblemName":"Bit++",
-        "ID":"263A",
+        "ID":"005TE",
         "level":"800"
     },
 
     {
         "ProblemName":"Domino piling",
-        "ID":"112A",
+        "ID":"006TE",
         "level":"800"
     },
     
     {
         "ProblemName": "Beautiful Matrix",
-        "ID": "339A",
+        "ID": "007TE",
         "level": "800"
     },
 
     {
         "ProblemName": "Petya and Strings",
-        "ID": "281A",
+        "ID": "008TE",
         "level": "800"
     },
 
     {
         "ProblemName": "Helpful Maths",
-        "ID": "136A",
+        "ID": "009TE",
         "level": "800"
     },
 
     {
         "ProblemName": "Word Capitalization",
-        "ID": "266A",
+        "ID": "010TE",
         "level": "800"
+    },
+
+    {
+        "ProblemName": "Boy or Girl",
+        "ID": "011TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Stones on the Table",
+        "ID": "012TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Bear and Big Brother",
+        "ID": "013TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Elephant",
+        "ID": "014TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Soldier and Bananas",
+        "ID": "015TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Word",
+        "ID": "016TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Wrong Subtraction",
+        "ID": "017TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Nearly Lucky Number",
+        "ID": "018TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Anton and Danik",
+        "ID": "019TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Translation",
+        "ID": "020TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Tram",
+        "ID": "021TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Vanya and Fence",
+        "ID": "022TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Queue at the School",
+        "ID": "023TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Beautiful Year",
+        "ID": "024TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "In Search of an Easy Problem",
+        "ID": "025TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "George and Accommodation",
+        "ID": "026TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Magnets",
+        "ID": "027TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Present",
+        "ID": "028TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Calculating Function",
+        "ID": "029TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Drinks",
+        "ID": "030TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Ultra-Fast Mathematician",
+        "ID": "031TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Is your horseshoe on the other hoof?",
+        "ID": "032TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Hulk",
+        "ID": "033TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Divisibility Problem",
+        "ID": "034TE",
+        "level": "800"
+    },
+
+    {
+        "ProblemName": "Food Buying",
+        "ID": "001E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Juicer",
+        "ID": "002E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Nastya and Rice",
+        "ID": "003E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Balanced Round",
+        "ID": "004E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Everyone Loves to Sleep",
+        "ID": "005E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Lights Out",
+        "ID": "006E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Mocha and Math",
+        "ID": "007E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Distance and Axis",
+        "ID": "008E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Bad Boy",
+        "ID": "009E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "PizzaForces",
+        "ID": "010E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "DIV + MOD",
+        "ID": "011E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Almost Prime",
+        "ID": "012E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Dominant Piranha",
+        "ID": "013E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Lunch Rush",
+        "ID": "014E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Make Product Equal One",
+        "ID": "015E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Orac and Factors",
+        "ID": "016E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Exciting Bets",
+        "ID": "017E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Yet Another Tetris Problem",
+        "ID": "018E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Oath of the Night's Watch",
+        "ID": "019E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Odd Queries",
+        "ID": "020E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "Decoding",
+        "ID": "0121E",
+        "level": "900"
+    },
+
+    {
+        "ProblemName": "The Corridor or There and Back Again",
+        "ID": "022E",
+        "level": "900"
     }
 ]
