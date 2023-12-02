@@ -4,38 +4,42 @@
     "ProblemName":"Watermelon",
     "ID":"001TE",
     "level":"800",
-    "herf":"/waterMelon"
-
+    "herf":"/TE001"
     },
 
     {
         "ProblemName":"Way Too Long Words",
         "ID":"002TE",
-        "level":"800"
+        "level":"800",
+        "herf":"/TE002"
     },
 
     {
         "ProblemName":"Team",
         "ID":"003TE",
-        "level":"800"
+        "level":"800",
+        "herf":"/TE003"
     },
 
     {
         "ProblemName":"Next Round",
         "ID":"004TE",
-        "level":"800"
+        "level":"800",
+        "herf":"/TE004"
     },
 
     {
         "ProblemName":"Bit++",
         "ID":"005TE",
-        "level":"800"
+        "level":"800",
+        "herf":"/TE005"
     },
 
     {
         "ProblemName":"Domino piling",
         "ID":"006TE",
-        "level":"800"
+        "level":"800",
+        "herf":"/TE006"
     },
     
     {

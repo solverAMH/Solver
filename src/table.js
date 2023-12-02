@@ -2,7 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card';
 import Table from 'react-bootstrap/Table';
 import data from './problem.json'
-import waterMelon from './Problem Text/waterMelon';
+
 
 function MyTable() {
   return (
@@ -20,7 +20,7 @@ function MyTable() {
             <tbody>
               {data.map((item, index) => (
                 <tr key={index}>
-                  <td><Card.Link href="#">{item.ID}</Card.Link></td>
+                  <td><Card.Link href={item.herf}>{item.ID}</Card.Link></td>
                   <td className="text-center"><Card.Link href={item.herf}>{item.ProblemName}</Card.Link></td>
                   <td>{item.level}</td>
                 </tr>
