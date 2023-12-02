@@ -3,6 +3,7 @@ import Nav from './navBar';
 import { BrowserRouter as Router,Routes,Route} from 'react-router-dom';
 import MyTable from './table';
 
+
 import TE001 from './Text800/TE001';
 import TE002 from './Text800/TE002';
 import TE003 from './Text800/TE003';
@@ -62,6 +63,28 @@ import E020 from './Text900/E020';
 import E021 from './Text900/E021';
 
 
+import M001 from './Text1000/M001';
+import M002 from './Text1000/M002';
+import M003 from './Text1000/M003';
+import M004 from './Text1000/M004';
+import M005 from './Text1000/M005';
+import M006 from './Text1000/M006';
+import M007 from './Text1000/M007';
+import M008 from './Text1000/M008';
+import M009 from './Text1000/M009';
+import M010 from './Text1000/M010';
+import M011 from './Text1000/M011';
+import M013 from './Text1000/M013';
+import M014 from './Text1000/M014';
+import M015 from './Text1000/M015';
+
+
+import H001 from './Text3100/H001';
+import H002 from './Text3100/H002';
+import H003 from './Text3100/H003';
+import H004 from './Text3100/H004';
+import H005 from './Text3100/H005';
+
 
 import Footer from './Footer';
 
@@ -79,7 +102,42 @@ function App() {
       <Route path='/TE004'Component={TE004}></Route>
       <Route path='/TE005'Component={TE005}></Route>
       <Route path='/TE006'Component={TE006}></Route>
+      <Route path='/TE007'Component={TE007}></Route>
+      <Route path='/TE008'Component={TE008}></Route>
+      <Route path='/TE009'Component={TE009}></Route>
+      <Route path='/TE010'Component={TE010}></Route>
+      <Route path='/TE011'Component={TE011}></Route>
+      <Route path='/TE012'Component={TE012}></Route>
+      <Route path='/TE013'Component={TE013}></Route>
+      <Route path='/TE014'Component={TE014}></Route>
+      <Route path='/TE015'Component={TE015}></Route>
+      <Route path='/TE016'Component={TE016}></Route>
+      <Route path='/TE017'Component={TE017}></Route>
+      <Route path='/TE018'Component={TE018}></Route>
+      <Route path='/TE019'Component={TE019}></Route>
+      <Route path='/TE020'Component={TE020}></Route>
+      <Route path='/TE021'Component={TE021}></Route>
+      <Route path='/TE022'Component={TE022}></Route>
+      <Route path='/TE023'Component={TE023}></Route>
+      <Route path='/TE024'Component={TE024}></Route>
+      <Route path='/TE025'Component={TE025}></Route>
+      <Route path='/TE026'Component={TE026}></Route>
+      <Route path='/TE027'Component={TE027}></Route>
+      <Route path='/TE028'Component={TE028}></Route>
+      <Route path='/TE029'Component={TE029}></Route>
+      <Route path='/TE030'Component={TE030}></Route>
+      <Route path='/TE031'Component={TE031}></Route>
+      <Route path='/TE032'Component={TE032}></Route>
+      <Route path='/TE033'Component={TE033}></Route>
+      <Route path='/TE034'Component={TE034}></Route>
 
+
+      <Route path='/E001'Component={E001}></Route>
+
+
+      <Route path='/M001'Component={M001}></Route>
+
+      <Route path='/H001'Component={H001}></Route>
 
     </Routes>
     </Router>
