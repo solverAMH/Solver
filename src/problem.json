@@ -45,300 +45,490 @@
     {
         "ProblemName": "Beautiful Matrix",
         "ID": "007TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE007"
     },
 
     {
         "ProblemName": "Petya and Strings",
         "ID": "008TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE008"
     },
 
     {
         "ProblemName": "Helpful Maths",
         "ID": "009TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE009"
     },
 
     {
         "ProblemName": "Word Capitalization",
         "ID": "010TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE010"
     },
 
     {
         "ProblemName": "Boy or Girl",
         "ID": "011TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE011"
     },
 
     {
         "ProblemName": "Stones on the Table",
         "ID": "012TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE012"
     },
 
     {
         "ProblemName": "Bear and Big Brother",
         "ID": "013TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE013"
     },
 
     {
         "ProblemName": "Elephant",
         "ID": "014TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE014"
     },
 
     {
         "ProblemName": "Soldier and Bananas",
         "ID": "015TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE015"
     },
 
     {
         "ProblemName": "Word",
         "ID": "016TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE016"
     },
 
     {
         "ProblemName": "Wrong Subtraction",
         "ID": "017TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE017"
     },
 
     {
         "ProblemName": "Nearly Lucky Number",
         "ID": "018TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE018"
     },
 
     {
         "ProblemName": "Anton and Danik",
         "ID": "019TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE019"
     },
 
     {
         "ProblemName": "Translation",
         "ID": "020TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE020"
     },
 
     {
         "ProblemName": "Tram",
         "ID": "021TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE021"
     },
 
     {
         "ProblemName": "Vanya and Fence",
         "ID": "022TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE022"
     },
 
     {
         "ProblemName": "Queue at the School",
         "ID": "023TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE023"
     },
 
     {
         "ProblemName": "Beautiful Year",
         "ID": "024TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE024"
     },
 
     {
         "ProblemName": "In Search of an Easy Problem",
         "ID": "025TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE025"
     },
 
     {
         "ProblemName": "George and Accommodation",
         "ID": "026TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE026"
     },
 
     {
         "ProblemName": "Magnets",
         "ID": "027TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE027"
     },
 
     {
         "ProblemName": "Present",
         "ID": "028TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE028"
     },
 
     {
         "ProblemName": "Calculating Function",
         "ID": "029TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE029"
     },
 
     {
         "ProblemName": "Drinks",
         "ID": "030TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE030"
     },
 
     {
         "ProblemName": "Ultra-Fast Mathematician",
         "ID": "031TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE031"
     },
 
     {
         "ProblemName": "Is your horseshoe on the other hoof?",
         "ID": "032TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE032"
     },
 
     {
         "ProblemName": "Hulk",
         "ID": "033TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE033"
     },
 
     {
         "ProblemName": "Divisibility Problem",
         "ID": "034TE",
-        "level": "800"
+        "level": "800",
+        "herf":"/TE034"
     },
 
     {
         "ProblemName": "Food Buying",
         "ID": "001E",
-        "level": "900"
+        "level": "900",
+        "herf": "E001"
     },
 
     {
         "ProblemName": "Juicer",
         "ID": "002E",
-        "level": "900"
+        "level": "900",
+        "herf": "E002"
     },
 
     {
         "ProblemName": "Nastya and Rice",
         "ID": "003E",
-        "level": "900"
+        "level": "900",
+        "herf": "E003"
     },
 
     {
         "ProblemName": "Balanced Round",
         "ID": "004E",
-        "level": "900"
+        "level": "900",
+        "herf": "E004"
     },
 
     {
         "ProblemName": "Everyone Loves to Sleep",
         "ID": "005E",
-        "level": "900"
+        "level": "900",
+        "herf": "E005"
     },
 
     {
         "ProblemName": "Lights Out",
         "ID": "006E",
-        "level": "900"
+        "level": "900",
+        "herf": "E006"
     },
 
     {
         "ProblemName": "Mocha and Math",
         "ID": "007E",
-        "level": "900"
+        "level": "900",
+        "herf": "E007"
     },
 
     {
         "ProblemName": "Distance and Axis",
         "ID": "008E",
-        "level": "900"
+        "level": "900",
+        "herf": "E008"
     },
 
     {
         "ProblemName": "Bad Boy",
         "ID": "009E",
-        "level": "900"
+        "level": "900",
+        "herf": "E009"
     },
 
     {
         "ProblemName": "PizzaForces",
         "ID": "010E",
-        "level": "900"
+        "level": "900",
+        "herf": "E010"
     },
 
     {
         "ProblemName": "DIV + MOD",
         "ID": "011E",
-        "level": "900"
+        "level": "900",
+        "herf": "E011"
     },
 
     {
         "ProblemName": "Almost Prime",
         "ID": "012E",
-        "level": "900"
+        "level": "900",
+        "herf": "E012"
     },
 
     {
         "ProblemName": "Dominant Piranha",
         "ID": "013E",
-        "level": "900"
+        "level": "900",
+        "herf": "E013"
     },
 
     {
         "ProblemName": "Lunch Rush",
         "ID": "014E",
-        "level": "900"
+        "level": "900",
+        "herf": "E014"
     },
 
     {
         "ProblemName": "Make Product Equal One",
         "ID": "015E",
-        "level": "900"
+        "level": "900",
+        "herf": "E015"
     },
 
     {
         "ProblemName": "Orac and Factors",
         "ID": "016E",
-        "level": "900"
+        "level": "900",
+        "herf": "E016"
     },
 
     {
         "ProblemName": "Exciting Bets",
         "ID": "017E",
-        "level": "900"
+        "level": "900",
+        "herf": "E017"
     },
 
     {
         "ProblemName": "Yet Another Tetris Problem",
         "ID": "018E",
-        "level": "900"
+        "level": "900",
+        "herf": "E018"
     },
 
     {
         "ProblemName": "Oath of the Night's Watch",
         "ID": "019E",
-        "level": "900"
+        "level": "900",
+        "herf": "E019"
     },
 
     {
         "ProblemName": "Odd Queries",
         "ID": "020E",
-        "level": "900"
+        "level": "900",
+        "herf": "E020"
     },
 
     {
         "ProblemName": "Decoding",
-        "ID": "0121E",
-        "level": "900"
+        "ID": "021E",
+        "level": "900",
+        "herf": "E021"
     },
 
     {
         "ProblemName": "The Corridor or There and Back Again",
         "ID": "022E",
-        "level": "900"
+        "level": "900",
+        "herf": "E022"
+    },
+
+    {
+        "ProblemName": "k-String",
+        "ID": "001M",
+        "level": "1000",
+        "herf": "M001"
+    },
+
+    {
+        "ProblemName": "Maria Breaks the Self-isolation",
+        "ID": "002M",
+        "level": "1000",
+        "herf": "M002"
+    },
+
+    {
+        "ProblemName": "Black and White Stripe",
+        "ID": "003M",
+        "level": "1000",
+        "herf": "M003"
+    },
+
+    {
+        "ProblemName": "Little Artem",
+        "ID": "004M",
+        "level": "M004",
+        "herf": ""
+    },
+
+    {
+        "ProblemName": "Distinct Split",
+        "ID": "005M",
+        "level": "M005",
+        "herf": ""
+    },
+
+    {
+        "ProblemName": "Life Without Zeros",
+        "ID": "006M",
+        "level": "M006",
+        "herf": ""
+    },
+
+    {
+        "ProblemName": "Cormen --- The Best Friend Of a Man",
+        "ID": "007M",
+        "level": "M007",
+        "herf": ""
+    },
+
+    {
+        "ProblemName": "Minimum Extraction",
+        "ID": "008M",
+        "level": "M008"
+    },
+
+    {
+        "ProblemName": "Jeff and Digits",
+        "ID": "009M",
+        "level": "M009",
+        "herf": ""
+    },
+
+    {
+        "ProblemName": "Phoenix and Puzzle",
+        "ID": "010M",
+        "level": "M010",
+        "herf": ""
+    },
+
+    {
+        "ProblemName": "Letters",
+        "ID": "011M",
+        "level": "1000",
+        "herf": "M011"
+    },
+
+    {
+        "ProblemName": "Bogosort",
+        "ID": "012M",
+        "level": "1000",
+        "herf": "M012"
+    },
+
+    {
+        "ProblemName": "Sum of Digits",
+        "ID": "013M",
+        "level": "1000",
+        "herf": "M013"
+    },
+
+    {
+        "ProblemName": "Boboniu Likes to Color Balls",
+        "ID": "014M",
+        "level": "1000",
+        "herf": "M014"
+    },
+
+    {
+        "ProblemName": "Save More Mice",
+        "ID": "015M",
+        "level": "1000",
+        "herf": "M015"
+    },
+
+    {
+        "ProblemName": "Tokitsukaze and Explosion",
+        "ID": "001H",
+        "level": "3100",
+        "herf": "H001"
+    },
+
+    {
+        "ProblemName": "Santa's Gift",
+        "ID": "002H",
+        "level": "3100",
+        "herf":"H002"
+    },
+
+    {
+        "ProblemName": "Minimum Diameter",
+        "ID": "003H",
+        "level": "3100",
+        "herf": "H003"
+    },
+
+    {
+        "ProblemName": "Magic Square",
+        "ID": "004H",
+        "level": "3100",
+        "herf":"H004"
+    },
+
+    {
+        "ProblemName": "Create a Maze",
+        "ID": "005H",
+        "level": "3100",
+        "herf": "H005"
     }
+
 ]
